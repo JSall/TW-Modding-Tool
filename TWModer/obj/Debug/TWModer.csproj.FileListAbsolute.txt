@@ -1,0 +1,14 @@
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\bin\Debug\TWModer.exe.config
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\bin\Debug\TWModer.exe
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\bin\Debug\TWModer.pdb
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer.csprojResolveAssemblyReference.cache
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\MainWindow.g.cs
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\App.g.cs
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer_MarkupCompile.cache
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer_MarkupCompile.lref
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\MainWindow.baml
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer.g.resources
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer.Properties.Resources.resources
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer.csproj.GenerateResource.Cache
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer.exe
+c:\users\ffej\documents\visual studio 2015\Projects\TWModer\TWModer\obj\Debug\TWModer.pdb
